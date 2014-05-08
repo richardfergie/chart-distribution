@@ -1,0 +1,7 @@
+Chart-Distribution
+==================
+
+Visualise sample distributions using the haskell charts library.
+
+Useful when doing Monte-Carlo analysis and you want to see what
+the results look like
